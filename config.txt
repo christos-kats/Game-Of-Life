@@ -1,0 +1,18 @@
+[GRID_PROPERTIES]
+x = 100
+y = 50
+pixelSize = 10
+
+[RANDOM_CHANCES]
+chances = 3
+
+[COLORS]
+background = 0,0,0
+foreground = 255,255,255
+
+[SPEED]
+startingInterval = 0.1
+intervalLimits = 0.02,1
+
+[FONT]
+font = joystix-monospace.ttf
